@@ -1,0 +1,19 @@
+{
+  "name": "renewalsiw",
+  "version": "1.0.0",
+  "description": "res.setHeader('Content-Type', 'text/html;charset=utf-8');\r ## Install\r npm install zgw-tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yong64361/renewalsiw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Provides the function of formatting time",
+  "dependencies": {
+    "iconv-lite": "^0.6.3"
+  }
+}
